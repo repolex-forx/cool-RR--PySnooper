@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cool-RR/PySnooper/commit/4be5c156ffc3315011c42ba521c4d8487052d289",
       "git:hexsha": "4be5c156ffc3315011c42ba521c4d8487052d289",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:21:49.532374+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cool-RR/PySnooper/commit/43bde4b8bf730b4782d8897b601a5925f6621f37",
